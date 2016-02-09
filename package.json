@@ -1,0 +1,30 @@
+{
+  "name": "pixel-number",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Cast numbers to CSS pixel strings",
+  "license": "MIT",
+  "repository": "bendrucker/pixel-number",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "css",
+    "pixel",
+    "number",
+    "string",
+    "style"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
