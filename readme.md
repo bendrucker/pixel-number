@@ -1,4 +1,4 @@
-# pixel-number [![Build Status](https://travis-ci.org/bendrucker/pixel-number.svg?branch=master)](https://travis-ci.org/bendrucker/pixel-number)
+# pixel-number [![Build Status](https://travis-ci.org/bendrucker/pixel-number.svg?branch=master)](https://travis-ci.org/bendrucker/pixel-number) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/pixel-number.svg)](https://greenkeeper.io/)
 
 > Cast numbers to CSS pixel strings
 
